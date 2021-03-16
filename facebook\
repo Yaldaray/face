@@ -2,3 +2,5 @@
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
 http://supersonictv.live:25461/903310/034806/72469?checkedby:iptvcat.com
+#EXTINF:-1,BeinSport-Sd1
+http://iptv.am000.tv:8000/live/add17/add17/293.ts
